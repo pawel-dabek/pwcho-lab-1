@@ -71,7 +71,7 @@ _docker buildx build \--platform linux/amd64,linux/arm64/v8,linux/arm/v7
 \--build-arg BUILDKIT_INLINE_CACHE=1
 \--cache-from=type=registry,ref=pawelekdabek/pwcho-lab-1:latest \--push
 -t pawelekdabek/pwcho-lab-1:latest
-\'[[https://github.com/pawel-dabek/pwcho-lab-1.git#main]{.underline}](https://github.com/pawel-dabek/pwcho-lab-1.git#main)\'_
+\'[[https://github.com/pawel-dabek/pwcho-lab-1.git#main]](https://github.com/pawel-dabek/pwcho-lab-1.git#main)\'_
 
 Efekt:
 
