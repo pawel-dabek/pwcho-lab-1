@@ -9,7 +9,7 @@
 
 
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.001.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.001.png)
 
 
 Programowanie Full-Stack w Chmurze Obliczeniowej
@@ -46,7 +46,7 @@ Sprawozdanie wykonał: Paweł Dąbek I2N 2.1
 
 Efekt:
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.002.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.002.png)
 
 1. Polecenie uruchomienia kontenera na podstawie zbudowanego obrazu:
 
@@ -54,7 +54,7 @@ Efekt:
 
 Efekt:
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.003.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.003.png)
 
 1. Polecenia sposobu uzyskania informacji, które wygenerował serwer w trakcie uruchomienia kontenera
 
@@ -68,7 +68,7 @@ w celu ustalenia id\_kontenera
 
 Efekt:
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.004.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.004.png)
 
 
 
@@ -78,7 +78,7 @@ Efekt:
 
 Efekt:
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.005.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.005.png)
 
 
 
@@ -90,7 +90,7 @@ Komenda tworząca builder:
 
 Efekt:
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.006.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.006.png)
 
 
 
@@ -100,7 +100,7 @@ Sprawdzenie jakie platformy są dostępne:
 
 Efekt:
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.007.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.007.png)
 
 Budowanie obrazów na architektury linux/arm/v7, linux/arm64/v8 oraz linux/amd64 za pomocą docker container:
 
@@ -108,12 +108,14 @@ Budowanie obrazów na architektury linux/arm/v7, linux/arm64/v8 oraz linux/amd64
 
 Efekt:
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.008.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.008.png)
 
-![](Aspose.Words.3c57cb8d-cb4e-4015-bbb9-9c9bb34cde82.009.png)
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.009.png)
 
 Można zauważyć, że wystąpił problem z zaimportowaniem pliku manifest cache. Spowodowane jest to tym, że był to pierwszy raz budowania obrazów i cache nie był jeszcze dostępny. Przy następnych budowaniach natomiast zostanie on poprawnie wykorzystany.
 
+Efekt:
 
+![](Aspose.Words.45ff9d1f-00a3-49f5-b237-768462489802.010.png)
 
 
